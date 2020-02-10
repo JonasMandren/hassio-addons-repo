@@ -16,7 +16,6 @@
   "map": [
     "backup:rw",
     "share:rw",
-    "mnt:rw",
     "ssl"
   ],
   "webui": "http://[HOST]:[PORT:8989]",

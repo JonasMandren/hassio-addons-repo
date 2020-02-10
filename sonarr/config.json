@@ -3,7 +3,7 @@
   "version": "latest",
   "slug": "sonarr_docker",
   "description": "Sonarr add-on based on the prebuilt docker image from linuxserver",
-  "url": "https://github.com/marcelveldt/hassio-addons-repo/sonarr",
+  "url": "https://github.com/JonasMandren/hassio-addons-repo/sonarr",
   "startup": "services",
   "arch": [
     "aarch64",
